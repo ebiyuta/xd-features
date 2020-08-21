@@ -1,6 +1,6 @@
 {
-  "name": "xd-fetures-cli",
-  "version": "0.2.0",
+  "name": "xd-fetures",
+  "version": "1.0.0",
   "description": "Adobe XD の最新情報にアクセスしやすくするためのCLIです",
   "license": "MIT",
   "repository": "",

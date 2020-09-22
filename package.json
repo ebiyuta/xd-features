@@ -1,6 +1,6 @@
 {
   "name": "xd-features",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adobe XD の最新情報にアクセスしやすくするためのCLIです",
   "license": "MIT",
   "repository": "",

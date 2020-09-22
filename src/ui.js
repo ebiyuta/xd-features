@@ -27,7 +27,7 @@ const items = [
   },
   {
     label: '最新機能一覧',
-    url: 'https://www.adobe.com/jp/products/xd/features.html',
+    url: 'https://www.adobe.com/jp/products/xd/features/whats-new.html',
   },
   {
     label: '公式ブログ（連載 Adobe XD アップデート）',
@@ -43,11 +43,11 @@ const items = [
   },
   {
     label: '---English Page---',
-    url: 'https://www.adobe.com/africa/products/xd.html',
+    url: 'https://www.adobe.com/products/xd.html',
   },
   {
     label: 'newest features',
-    url: 'https://www.adobe.com/africa/products/xd/features.html',
+    url: 'https://www.adobe.com/products/xd/features/whats-new.html',
   },
   {
     label: 'Adobe Blog',
@@ -55,7 +55,7 @@ const items = [
   },
   {
     label: 'Adobe XD User Guide the latest release of XD.',
-    url: 'https://helpx.adobe.com/cy_en/xd/help/whats-new.html',
+    url: 'https://helpx.adobe.com/xd/help/whats-new.ug.html',
   },
   {
     label: 'Let\'s XD.',
